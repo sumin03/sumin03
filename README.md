@@ -1,8 +1,5 @@
-## Hi there 👋
 
-### Sumin Lee 
-#### Front-end developer & Web designer
-I can do coding and designing at the same time :) 
+![깃헙](https://user-images.githubusercontent.com/77384682/107034889-b28cf800-67fa-11eb-9d1d-5433aa718348.png)
 
 
 <!--
