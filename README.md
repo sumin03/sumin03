@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Sumin Lee 
+## Front-end developer & Web designer
+I can do coding and designing at the same time :) 
+
+
 <!--
 **sumin03/sumin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
