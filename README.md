@@ -1,6 +1,10 @@
 
 ![깃헙](https://user-images.githubusercontent.com/77384682/107034889-b28cf800-67fa-11eb-9d1d-5433aa718348.png)
 
+I'm currently learning javascript deeply and trying to learn react.js + vue.js + typescript. 
+
+
+
 
 <!--
 **sumin03/sumin03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
