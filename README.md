@@ -1,7 +1,12 @@
 
 ![깃헙](https://user-images.githubusercontent.com/77384682/107034889-b28cf800-67fa-11eb-9d1d-5433aa718348.png)
 
-I'm currently learning javascript deeply and trying to learn react.js + vue.js + typescript. 
+✍🏼 I'm currently learning javascript deeply and trying to learn react.js + vue.js + typescript.
+
+💖 I really enjoy making interesting ideas with design and coding 
+
+🙌🏼 I am user-friendly person, very punctual and always driven. 
+
 
 
 
