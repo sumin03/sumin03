@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-## Sumin Lee 
-## Front-end developer & Web designer
+### Sumin Lee 
+#### Front-end developer & Web designer
 I can do coding and designing at the same time :) 
 
 
