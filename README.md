@@ -1,8 +1,4 @@
 
-![깃헙](https://user-images.githubusercontent.com/77384682/107034889-b28cf800-67fa-11eb-9d1d-5433aa718348.png)
-
-✍🏼 I'm currently learning javascript deeply and trying to learn react.js + vue.js + typescript.<br> 
-   현재 저는 자바스크립트에 대해서 공부를 하고 있는 중이고 리엑트 + 뷰 + 타입스크립트를 공부할 예정입니다. 
 
 💖 I really enjoy making interesting ideas with design and coding. <br>
    저는 흥미로운 아이디어를 디자인과 코딩으로 표현해 내는 것을 좋아합니다. 
